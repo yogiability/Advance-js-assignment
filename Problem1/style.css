@@ -1,0 +1,77 @@
+html{
+    font-family: sans-serif;
+    
+}
+
+body{
+    background-color: black;
+}
+
+
+    h1{
+        text-align: center;
+        font-style: italic;
+        color: yellow;
+        font-size: 60px;
+        text-shadow: 0 0 10px #0026ff,
+        0 0 10px #0000ff,
+        0 0 40px #2b00ff,
+        0 0 60px #1e00ff,
+        0 0 10px #ff0080;
+    }
+    
+
+
+.container{
+    /* background-color: white; */
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button,.button1{
+    padding: 20px;
+    margin: 0 6px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    margin: 0;
+    padding: 10px 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+#music1 {
+    background-color: red;
+}
+
+h2{
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: yellow;
+    font-size: 50px;
+    text-shadow: 0 0 10px #0026ff,
+0 0 10px #0000ff,
+0 0 40px #2b00ff,
+0 0 60px #1e00ff,
+0 0 10px #ff0080;
+
+
+}
+
